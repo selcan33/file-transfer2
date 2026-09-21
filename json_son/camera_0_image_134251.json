@@ -1,0 +1,29 @@
+{
+    "version": "5.3.1",
+    "flags": {
+        "__ignore__": false
+    },
+    "shapes": [
+        {
+            "label": "dent",
+            "points": [
+                [
+                    1668.1080322265625,
+                    3670.91748046875
+                ],
+                [
+                    1759.757568359375,
+                    3776.978759765625
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "camera_0_image_134251.jpg",
+    "imageData": null,
+    "imageHeight": 4024,
+    "imageWidth": 3036
+}
