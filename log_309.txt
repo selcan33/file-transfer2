@@ -27576,3 +27576,1100 @@ position_name
 [2026-09-29 10:50:27.674] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=78, needed=124) -> skipping
 [2026-09-29 10:50:27.970] [DEBUG] [MainThread] [FRAME-STATE] frame=4611 event=SMART_DEVICE session=29683 session_frame=78 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
 [2026-09-29 10:50:27.987] [INFO ] [AnalysisWorker-2] [ANALYZE] DEFECT cam=MRF dents=1 scratches=0 file=camera_5_image_4610.bmp
+[2026-09-29 10:50:28.910] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:28.910] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 79
+[2026-09-29 10:50:28.910] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=79, needed=124) -> skipping
+[2026-09-29 10:50:29.160] [DEBUG] [MainThread] [FRAME-STATE] frame=4612 event=SMART_DEVICE session=29683 session_frame=79 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.065s
+[2026-09-29 10:50:30.097] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:30.097] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 80
+[2026-09-29 10:50:30.097] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=80, needed=124) -> skipping
+[2026-09-29 10:50:30.392] [DEBUG] [MainThread] [FRAME-STATE] frame=4613 event=SMART_DEVICE session=29683 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.089s
+[2026-09-29 10:50:31.314] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:31.314] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 81
+[2026-09-29 10:50:31.314] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=81, needed=124) -> skipping
+[2026-09-29 10:50:31.627] [DEBUG] [MainThread] [FRAME-STATE] frame=4614 event=SMART_DEVICE session=29683 session_frame=81 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.094s
+[2026-09-29 10:50:32.549] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:32.549] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 82
+[2026-09-29 10:50:32.549] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=82, needed=124) -> skipping
+[2026-09-29 10:50:32.814] [DEBUG] [MainThread] [FRAME-STATE] frame=4615 event=SMART_DEVICE session=29683 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:33.767] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:33.767] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 83
+[2026-09-29 10:50:33.767] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=83, needed=124) -> skipping
+[2026-09-29 10:50:33.814] [INFO ] [AnalysisWorker-2] [ANALYZE] PERSON DETECTED cam=MLF
+[2026-09-29 10:50:34.048] [DEBUG] [MainThread] [FRAME-STATE] frame=4616 event=SMART_DEVICE session=29683 session_frame=83 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:34.955] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:34.955] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 84
+[2026-09-29 10:50:34.955] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=84, needed=124) -> skipping
+[2026-09-29 10:50:35.267] [DEBUG] [MainThread] [FRAME-STATE] frame=4617 event=SMART_DEVICE session=29683 session_frame=84 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:36.205] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:36.205] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 85
+[2026-09-29 10:50:36.205] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=85, needed=124) -> skipping
+[2026-09-29 10:50:36.470] [DEBUG] [MainThread] [FRAME-STATE] frame=4618 event=SMART_DEVICE session=29683 session_frame=85 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:37.377] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:37.377] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 86
+[2026-09-29 10:50:37.377] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=86, needed=124) -> skipping
+[2026-09-29 10:50:37.675] [DEBUG] [MainThread] [FRAME-STATE] frame=4619 event=SMART_DEVICE session=29683 session_frame=86 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:50:38.601] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:38.601] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 87
+[2026-09-29 10:50:38.601] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=87, needed=124) -> skipping
+[2026-09-29 10:50:38.899] [DEBUG] [MainThread] [FRAME-STATE] frame=4620 event=SMART_DEVICE session=29683 session_frame=87 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:39.806] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:39.806] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 88
+[2026-09-29 10:50:39.806] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=88, needed=124) -> skipping
+[2026-09-29 10:50:40.088] [DEBUG] [MainThread] [FRAME-STATE] frame=4621 event=SMART_DEVICE session=29683 session_frame=88 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:41.017] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:41.017] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 89
+[2026-09-29 10:50:41.017] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=89, needed=124) -> skipping
+[2026-09-29 10:50:41.309] [DEBUG] [MainThread] [FRAME-STATE] frame=4622 event=SMART_DEVICE session=29683 session_frame=89 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:42.220] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:42.235] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 90
+[2026-09-29 10:50:42.235] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=90, needed=124) -> skipping
+[2026-09-29 10:50:42.532] [DEBUG] [MainThread] [FRAME-STATE] frame=4623 event=SMART_DEVICE session=29683 session_frame=90 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:43.455] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:43.455] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 91
+[2026-09-29 10:50:43.455] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=91, needed=124) -> skipping
+[2026-09-29 10:50:43.736] [DEBUG] [MainThread] [FRAME-STATE] frame=4624 event=SMART_DEVICE session=29683 session_frame=91 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:44.674] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:44.674] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 92
+[2026-09-29 10:50:44.674] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=92, needed=124) -> skipping
+[2026-09-29 10:50:44.958] [DEBUG] [MainThread] [FRAME-STATE] frame=4625 event=SMART_DEVICE session=29683 session_frame=92 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:45.898] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:45.898] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 93
+[2026-09-29 10:50:45.898] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=93, needed=124) -> skipping
+[2026-09-29 10:50:46.180] [DEBUG] [MainThread] [FRAME-STATE] frame=4626 event=SMART_DEVICE session=29683 session_frame=93 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:47.058] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:47.058] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 94
+[2026-09-29 10:50:47.058] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=94, needed=124) -> skipping
+[2026-09-29 10:50:47.372] [DEBUG] [MainThread] [FRAME-STATE] frame=4627 event=SMART_DEVICE session=29683 session_frame=94 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:48.285] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:48.285] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 95
+[2026-09-29 10:50:48.285] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=95, needed=124) -> skipping
+[2026-09-29 10:50:48.598] [DEBUG] [MainThread] [FRAME-STATE] frame=4628 event=SMART_DEVICE session=29683 session_frame=95 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:49.517] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:49.517] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 96
+[2026-09-29 10:50:49.517] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=96, needed=124) -> skipping
+[2026-09-29 10:50:49.803] [DEBUG] [MainThread] [FRAME-STATE] frame=4629 event=SMART_DEVICE session=29683 session_frame=96 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:50:50.785] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:50.785] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 97
+[2026-09-29 10:50:50.785] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=97, needed=124) -> skipping
+[2026-09-29 10:50:51.012] [DEBUG] [MainThread] [FRAME-STATE] frame=4630 event=SMART_DEVICE session=29683 session_frame=97 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:50:51.906] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:51.906] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 98
+[2026-09-29 10:50:51.906] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=98, needed=124) -> skipping
+[2026-09-29 10:50:52.205] [DEBUG] [MainThread] [FRAME-STATE] frame=4631 event=SMART_DEVICE session=29683 session_frame=98 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:53.111] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:53.111] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 99
+[2026-09-29 10:50:53.111] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=99, needed=124) -> skipping
+[2026-09-29 10:50:53.408] [DEBUG] [MainThread] [FRAME-STATE] frame=4632 event=SMART_DEVICE session=29683 session_frame=99 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:54.324] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:54.324] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 100
+[2026-09-29 10:50:54.324] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=100, needed=124) -> skipping
+[2026-09-29 10:50:54.635] [DEBUG] [MainThread] [FRAME-STATE] frame=4633 event=SMART_DEVICE session=29683 session_frame=100 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.081s
+[2026-09-29 10:50:55.529] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:55.529] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 101
+[2026-09-29 10:50:55.529] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=101, needed=124) -> skipping
+[2026-09-29 10:50:55.840] [DEBUG] [MainThread] [FRAME-STATE] frame=4634 event=SMART_DEVICE session=29683 session_frame=101 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:56.736] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:56.736] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 102
+[2026-09-29 10:50:56.736] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=102, needed=124) -> skipping
+[2026-09-29 10:50:57.045] [DEBUG] [MainThread] [FRAME-STATE] frame=4635 event=SMART_DEVICE session=29683 session_frame=102 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:50:57.940] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:57.940] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 103
+[2026-09-29 10:50:57.940] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=103, needed=124) -> skipping
+[2026-09-29 10:50:58.236] [DEBUG] [MainThread] [FRAME-STATE] frame=4636 event=SMART_DEVICE session=29683 session_frame=103 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:50:59.111] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:50:59.111] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 104
+[2026-09-29 10:50:59.111] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=104, needed=124) -> skipping
+[2026-09-29 10:50:59.449] [DEBUG] [MainThread] [FRAME-STATE] frame=4637 event=SMART_DEVICE session=29683 session_frame=104 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.086s
+[2026-09-29 10:51:00.364] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:00.364] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 105
+[2026-09-29 10:51:00.364] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=105, needed=124) -> skipping
+[2026-09-29 10:51:00.661] [DEBUG] [MainThread] [FRAME-STATE] frame=4638 event=SMART_DEVICE session=29683 session_frame=105 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:01.634] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:01.634] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 106
+[2026-09-29 10:51:01.634] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=106, needed=124) -> skipping
+[2026-09-29 10:51:01.868] [DEBUG] [MainThread] [FRAME-STATE] frame=4639 event=SMART_DEVICE session=29683 session_frame=106 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:51:02.768] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:02.768] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 107
+[2026-09-29 10:51:02.768] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=107, needed=124) -> skipping
+[2026-09-29 10:51:03.065] [DEBUG] [MainThread] [FRAME-STATE] frame=4640 event=SMART_DEVICE session=29683 session_frame=107 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:03.955] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:03.955] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 108
+[2026-09-29 10:51:03.955] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=108, needed=124) -> skipping
+[2026-09-29 10:51:04.268] [DEBUG] [MainThread] [FRAME-STATE] frame=4641 event=SMART_DEVICE session=29683 session_frame=108 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:05.175] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:05.175] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 109
+[2026-09-29 10:51:05.175] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=109, needed=124) -> skipping
+[2026-09-29 10:51:05.471] [DEBUG] [MainThread] [FRAME-STATE] frame=4642 event=SMART_DEVICE session=29683 session_frame=109 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:06.364] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:06.364] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 110
+[2026-09-29 10:51:06.364] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=110, needed=124) -> skipping
+[2026-09-29 10:51:06.678] [DEBUG] [MainThread] [FRAME-STATE] frame=4643 event=SMART_DEVICE session=29683 session_frame=110 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:07.602] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:07.602] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 111
+[2026-09-29 10:51:07.602] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=111, needed=124) -> skipping
+[2026-09-29 10:51:07.893] [DEBUG] [MainThread] [FRAME-STATE] frame=4644 event=SMART_DEVICE session=29683 session_frame=111 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.072s
+[2026-09-29 10:51:08.776] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:08.776] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 112
+[2026-09-29 10:51:08.776] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=112, needed=124) -> skipping
+[2026-09-29 10:51:09.090] [DEBUG] [MainThread] [FRAME-STATE] frame=4645 event=SMART_DEVICE session=29683 session_frame=112 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:51:09.999] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:09.999] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 113
+[2026-09-29 10:51:09.999] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=113, needed=124) -> skipping
+[2026-09-29 10:51:10.313] [DEBUG] [MainThread] [FRAME-STATE] frame=4646 event=SMART_DEVICE session=29683 session_frame=113 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:11.205] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:11.205] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 114
+[2026-09-29 10:51:11.205] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=114, needed=124) -> skipping
+[2026-09-29 10:51:11.252] [INFO ] [AnalysisWorker-1] [ANALYZE] TAILLIGHT black cam=MLF file=camera_4_image_4646.bmp
+[2026-09-29 10:51:11.518] [DEBUG] [MainThread] [FRAME-STATE] frame=4647 event=SMART_DEVICE session=29683 session_frame=114 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:12.417] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:12.417] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 115
+[2026-09-29 10:51:12.417] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=115, needed=124) -> skipping
+[2026-09-29 10:51:12.714] [DEBUG] [MainThread] [FRAME-STATE] frame=4648 event=SMART_DEVICE session=29683 session_frame=115 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.071s
+[2026-09-29 10:51:13.614] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:13.628] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 116
+[2026-09-29 10:51:13.628] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=116, needed=124) -> skipping
+[2026-09-29 10:51:13.917] [DEBUG] [MainThread] [FRAME-STATE] frame=4649 event=SMART_DEVICE session=29683 session_frame=116 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:51:14.831] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:14.831] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 117
+[2026-09-29 10:51:14.831] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=117, needed=124) -> skipping
+[2026-09-29 10:51:15.125] [DEBUG] [MainThread] [FRAME-STATE] frame=4650 event=SMART_DEVICE session=29683 session_frame=117 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.075s
+[2026-09-29 10:51:16.023] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:16.023] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 118
+[2026-09-29 10:51:16.024] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=118, needed=124) -> skipping
+[2026-09-29 10:51:16.305] [DEBUG] [MainThread] [FRAME-STATE] frame=4651 event=SMART_DEVICE session=29683 session_frame=118 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.081s
+[2026-09-29 10:51:17.264] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:17.264] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 119
+[2026-09-29 10:51:17.264] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=119, needed=124) -> skipping
+[2026-09-29 10:51:17.466] [DEBUG] [MainThread] [FRAME-STATE] frame=4652 event=SMART_DEVICE session=29683 session_frame=119 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:51:18.341] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:18.341] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 120
+[2026-09-29 10:51:18.341] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=120, needed=124) -> skipping
+[2026-09-29 10:51:18.631] [DEBUG] [MainThread] [FRAME-STATE] frame=4653 event=SMART_DEVICE session=29683 session_frame=120 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.094s
+[2026-09-29 10:51:19.519] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:19.519] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 121
+[2026-09-29 10:51:19.519] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=121, needed=124) -> skipping
+[2026-09-29 10:51:19.810] [DEBUG] [MainThread] [FRAME-STATE] frame=4654 event=SMART_DEVICE session=29683 session_frame=121 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.072s
+[2026-09-29 10:51:20.692] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:20.692] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 122
+[2026-09-29 10:51:20.692] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=122, needed=124) -> skipping
+[2026-09-29 10:51:20.984] [DEBUG] [MainThread] [FRAME-STATE] frame=4655 event=SMART_DEVICE session=29683 session_frame=122 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:51:21.867] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:21.867] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 123
+[2026-09-29 10:51:21.867] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=123, needed=124) -> skipping
+[2026-09-29 10:51:22.177] [DEBUG] [MainThread] [FRAME-STATE] frame=4656 event=SMART_DEVICE session=29683 session_frame=123 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:51:23.064] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29683/MLF
+[2026-09-29 10:51:23.064] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 124
+[2026-09-29 10:51:23.064] [INFO ] [AnalysisWorker-2] [SLAT] SLAT candidate range: local frames 102-124
+[2026-09-29 10:51:23.064] [INFO ] [AnalysisWorker-2] [SLAT] Candidate frame count: 23
+[2026-09-29 10:51:23.064] [INFO ] [AnalysisWorker-2] [SLAT] Selected 7-frame window: 110-116
+[2026-09-29 10:51:23.069] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=110 image_id=4642 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4642_proof.jpg
+[2026-09-29 10:51:23.073] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=111 image_id=4643 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4643_proof.jpg
+[2026-09-29 10:51:23.078] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=112 image_id=4644 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4644_proof.jpg
+[2026-09-29 10:51:23.081] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=113 image_id=4645 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4645_proof.jpg
+[2026-09-29 10:51:23.081] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=114 image_id=4646 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4646_proof.jpg
+[2026-09-29 10:51:23.093] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=115 image_id=4647 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4647_proof.jpg
+[2026-09-29 10:51:23.097] [DEBUG] [AnalysisWorker-2] [SLAT] local_frame=116 image_id=4648 path=./pdi/gemlik_factory_end_of_line_0_29683/MLF\camera_4_image_4648_proof.jpg
+[2026-09-29 10:51:23.125] [INFO ] [AnalysisWorker-2] [SLAT] Segmentation validation frame 110 -> rear-door=True parts=['rear-door:0.99', 'cam_mirror:0.99', 'rear-mudguard:0.96', 'roof-upper:0.79', 'rear-mudguard:0.48', 'roof:0.35']
+[2026-09-29 10:51:23.125] [INFO ] [AnalysisWorker-2] [SLAT] Segmentation validation PASS at frame 110
+[2026-09-29 10:51:23.125] [INFO ] [AnalysisWorker-2] [SLAT] Segmentation early-stop: rear-door found
+[2026-09-29 10:51:23.126] [INFO ] [AnalysisWorker-2] [SLAT] Running CLS on selected frames: 110-116
+[2026-09-29 10:51:23.256] [INFO ] [AnalysisWorker-2] [SLAT] frame 110 -> black-edition-chromium (image_id=4642)
+[2026-09-29 10:51:23.326] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.84 threshold=5
+[2026-09-29 10:51:23.326] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=SMART_DEVICE session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.042s
+[2026-09-29 10:51:23.326] [INFO ] [MainThread] [EVENT] SMART_DEVICE -> LIGHTS_OFF (dark detected) frame=4657
+[2026-09-29 10:51:23.382] [INFO ] [AnalysisWorker-2] [SLAT] frame 111 -> black-edition-chromium (image_id=4643)
+[2026-09-29 10:51:23.471] [INFO ] [AnalysisWorker-2] [SLAT] frame 112 -> black-edition-chromium (image_id=4644)
+[2026-09-29 10:51:23.568] [INFO ] [AnalysisWorker-2] [SLAT] frame 113 -> black-edition-chromium (image_id=4645)
+[2026-09-29 10:51:23.676] [INFO ] [AnalysisWorker-2] [SLAT] frame 114 -> black-edition-chromium (image_id=4646)
+[2026-09-29 10:51:23.756] [INFO ] [AnalysisWorker-2] [SLAT] frame 115 -> black-edition-chromium (image_id=4647)
+[2026-09-29 10:51:23.850] [INFO ] [AnalysisWorker-2] [SLAT] frame 116 -> black-edition-chromium (image_id=4648)
+[2026-09-29 10:51:23.850] [INFO ] [AnalysisWorker-2] [SLAT] Vote: black-edition-chromium=7 chromium=0 plastic=0
+[2026-09-29 10:51:23.850] [INFO ] [AnalysisWorker-2] [SLAT] FINAL SLAT TYPE: black-edition-chromium
+[2026-09-29 10:51:24.366] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.81 threshold=5
+[2026-09-29 10:51:24.366] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.029s
+[2026-09-29 10:51:25.409] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.55 threshold=5
+[2026-09-29 10:51:25.409] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.031s
+[2026-09-29 10:51:26.441] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.46 threshold=5
+[2026-09-29 10:51:26.441] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.031s
+[2026-09-29 10:51:27.487] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.42 threshold=5
+[2026-09-29 10:51:27.487] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.027s
+[2026-09-29 10:51:28.516] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.55 threshold=5
+[2026-09-29 10:51:28.516] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.028s
+[2026-09-29 10:51:29.550] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.73 threshold=5
+[2026-09-29 10:51:29.551] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.029s
+[2026-09-29 10:51:30.596] [INFO ] [MainThread] [DARKNESS] Dark frame detected! mean_brightness=4.75 threshold=5
+[2026-09-29 10:51:30.596] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=False num_cars=0 has_entering=False has_exiting=False is_dark=True consecutive_no_car_frames=0 det_time=0.031s
+[2026-09-29 10:51:31.657] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=LIGHTS_OFF session=29683 session_frame=124 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.059s
+[2026-09-29 10:51:31.657] [INFO ] [MainThread] [EVENT] LIGHTS_OFF -> SMART_DEVICE (lights on, restored) frame=4657
+[2026-09-29 10:51:31.690] [INFO ] [MainThread] [EVENT] SMART_DEVICE -> END (multi-car, new car entering) frame=4657 session_frames=124 session_duration=161.8s
+[2026-09-29 10:51:31.690] [INFO ] [MainThread] [SESSION] New session created: session=29684 base_path=./pdi/gemlik_factory_end_of_line_0_29684
+[2026-09-29 10:51:31.769] [DEBUG] [MainThread] [REENTER-CHECK] path=new_session frame=4657 new_session=29684 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False
+[2026-09-29 10:51:32.018] [INFO ] [MainThread] [PDI-STATUS] OK analyze_id=0 status=1 chassis=EMPTY elapsed=0.234s
+[2026-09-29 10:51:32.018] [INFO ] [MainThread] [BE-ID] Backend analyze id: 279790, path=./pdi/gemlik_factory_end_of_line_0_29684 elapsed=0.250s
+[2026-09-29 10:51:32.268] [INFO ] [MainThread] [PDI-STATUS] OK analyze_id=279790 status=2 chassis=NL1CFB0P00G127946 elapsed=0.219s
+[2026-09-29 10:51:32.289] [INFO ] [MainThread] [EVENT] END -> SMART_DEVICE (immediate re-enter after new session) frame=4657
+[2026-09-29 10:51:32.565] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[r:0.914] has_front=False has_rear=False check_model=True file=camera_6_image_4657.bmp
+[2026-09-29 10:51:32.565] [INFO ] [AnalysisWorker-0] [LOGO] REAR-SKIP reason=no_front_logo conf=0.914 file=camera_6_image_4657.bmp
+[2026-09-29 10:51:32.857] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.079s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:32.926] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.069s since_tick_start=0.148s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:32.972] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:32.972] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 1
+[2026-09-29 10:51:32.972] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=1, needed=124) -> skipping
+[2026-09-29 10:51:32.990] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.064s since_tick_start=0.212s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:33.053] [INFO ] [AnalysisWorker-2] [ANALYZE] TAILLIGHT black cam=MLF file=camera_4_image_4657.bmp
+[2026-09-29 10:51:33.063] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.074s since_tick_start=0.286s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:33.112] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.049s since_tick_start=0.334s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:33.206] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.094s since_tick_start=0.428s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:33.294] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.089s since_tick_start=0.517s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:33.294] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4657 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=1 total_duplicate_capture_time=0.517s
+[2026-09-29 10:51:33.346] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[r:0.710] has_front=True has_rear=False check_model=False file=camera_6_image_4657.bmp
+[2026-09-29 10:51:33.377] [DEBUG] [MainThread] [FRAME-STATE] frame=4657 event=SMART_DEVICE session=29684 session_frame=0 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.083s
+[2026-09-29 10:51:33.424] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4657
+[2026-09-29 10:51:33.440] [INFO ] [AnalysisWorker-1] [LOGO] REAR-LOGO FOUND conf=0.710 frames_since_front=100 file=camera_6_image_4657.bmp
+[2026-09-29 10:51:33.862] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[r:0.674] has_front=False has_rear=False check_model=True file=camera_6_image_4657.bmp
+[2026-09-29 10:51:33.862] [INFO ] [AnalysisWorker-0] [LOGO] REAR-SKIP reason=no_front_logo conf=0.674 file=camera_6_image_4657.bmp
+[2026-09-29 10:51:34.303] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:34.303] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 1
+[2026-09-29 10:51:34.303] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=1, needed=124) -> skipping
+[2026-09-29 10:51:34.581] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.063s since_tick_start=0.063s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:34.644] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.063s since_tick_start=0.125s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:34.721] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.203s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:34.804] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.083s since_tick_start=0.286s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:34.877] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.073s since_tick_start=0.359s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:34.960] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.083s since_tick_start=0.442s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:35.036] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4657 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.075s since_tick_start=0.518s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4657.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:35.050] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4657 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=2 total_duplicate_capture_time=0.532s
+[2026-09-29 10:51:35.050] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.626s > budget=1.000s frame=4657 queue_size=1
+[2026-09-29 10:51:35.129] [DEBUG] [MainThread] [FRAME-STATE] frame=4658 event=SMART_DEVICE session=29684 session_frame=1 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:51:35.179] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4658
+[2026-09-29 10:51:35.422] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[r:0.827, f:0.637] has_front=False has_rear=False check_model=True file=camera_6_image_4658.bmp
+[2026-09-29 10:51:35.422] [INFO ] [AnalysisWorker-2] [LOGO] REAR-SKIP reason=no_front_logo conf=0.827 file=camera_6_image_4658.bmp
+[2026-09-29 10:51:35.514] [INFO ] [AnalysisWorker-2] [LOGO] FRONT-LOGO FOUND conf=0.637 frame=4658 file=camera_6_image_4658.bmp
+[2026-09-29 10:51:36.052] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:36.052] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 2
+[2026-09-29 10:51:36.052] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=2, needed=124) -> skipping
+[2026-09-29 10:51:36.325] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.073s since_tick_start=0.073s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.402] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.077s since_tick_start=0.150s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.476] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.074s since_tick_start=0.223s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.549] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.074s since_tick_start=0.297s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.628] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.375s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.706] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.453s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.800] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4658 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.095s since_tick_start=0.548s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4658.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:36.801] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4658 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=3 total_duplicate_capture_time=0.549s
+[2026-09-29 10:51:36.801] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.621s > budget=1.000s frame=4658 queue_size=0
+[2026-09-29 10:51:36.878] [DEBUG] [MainThread] [FRAME-STATE] frame=4659 event=SMART_DEVICE session=29684 session_frame=2 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:51:36.924] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4659
+[2026-09-29 10:51:37.177] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.824, r:0.601] has_front=True has_rear=False check_model=True file=camera_6_image_4659.bmp
+[2026-09-29 10:51:37.178] [INFO ] [AnalysisWorker-1] [LOGO] REAR-SKIP reason=frame_gap frames_since_front=1 min=40 conf=0.601 file=camera_6_image_4659.bmp
+[2026-09-29 10:51:37.779] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:37.779] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 3
+[2026-09-29 10:51:37.779] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=3, needed=124) -> skipping
+[2026-09-29 10:51:38.065] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.061s since_tick_start=0.061s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.146] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.081s since_tick_start=0.143s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.221] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.075s since_tick_start=0.218s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.298] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.077s since_tick_start=0.295s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.366] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.067s since_tick_start=0.363s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.456] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.089s since_tick_start=0.452s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.538] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4659 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.535s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4659.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:38.538] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4659 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=4 total_duplicate_capture_time=0.535s
+[2026-09-29 10:51:38.538] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.614s > budget=1.000s frame=4659 queue_size=1
+[2026-09-29 10:51:38.630] [DEBUG] [MainThread] [FRAME-STATE] frame=4660 event=SMART_DEVICE session=29684 session_frame=3 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.092s
+[2026-09-29 10:51:38.683] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4660
+[2026-09-29 10:51:38.925] [INFO ] [AnalysisWorker-0] [ANALYZE] DEFECT cam=TOP dents=1 scratches=0 file=camera_6_image_4660.bmp
+[2026-09-29 10:51:39.027] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.914] has_front=True has_rear=False check_model=True file=camera_6_image_4660.bmp
+[2026-09-29 10:51:39.509] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:39.509] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 4
+[2026-09-29 10:51:39.509] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=4, needed=124) -> skipping
+[2026-09-29 10:51:39.831] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.071s since_tick_start=0.071s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:39.897] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.067s since_tick_start=0.138s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:39.966] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.068s since_tick_start=0.207s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:40.026] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.060s since_tick_start=0.267s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:40.105] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.345s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:40.178] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.066s since_tick_start=0.419s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:40.244] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4660 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.066s since_tick_start=0.485s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4660.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:40.244] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4660 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=5 total_duplicate_capture_time=0.485s
+[2026-09-29 10:51:40.244] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.562s > budget=1.000s frame=4660 queue_size=1
+[2026-09-29 10:51:40.333] [DEBUG] [MainThread] [FRAME-STATE] frame=4661 event=SMART_DEVICE session=29684 session_frame=4 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.088s
+[2026-09-29 10:51:40.369] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4661
+[2026-09-29 10:51:41.228] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:41.228] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 5
+[2026-09-29 10:51:41.228] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=5, needed=124) -> skipping
+[2026-09-29 10:51:41.525] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.070s since_tick_start=0.070s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.592] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.066s since_tick_start=0.136s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.680] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.088s since_tick_start=0.224s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.744] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.065s since_tick_start=0.289s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.852] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.108s since_tick_start=0.397s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.930] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.077s since_tick_start=0.474s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.998] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4661 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.067s since_tick_start=0.542s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4661.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:41.998] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4661 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=6 total_duplicate_capture_time=0.542s
+[2026-09-29 10:51:41.998] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.628s > budget=1.000s frame=4661 queue_size=1
+[2026-09-29 10:51:42.089] [DEBUG] [MainThread] [FRAME-STATE] frame=4662 event=SMART_DEVICE session=29684 session_frame=5 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.092s
+[2026-09-29 10:51:42.138] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4662
+[2026-09-29 10:51:42.369] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.927] has_front=True has_rear=False check_model=True file=camera_6_image_4662.bmp
+[2026-09-29 10:51:43.026] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:43.026] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 6
+[2026-09-29 10:51:43.026] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=6, needed=124) -> skipping
+[2026-09-29 10:51:43.272] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.075s since_tick_start=0.075s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.346] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.074s since_tick_start=0.149s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.417] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.071s since_tick_start=0.220s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.489] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.072s since_tick_start=0.292s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.558] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.068s since_tick_start=0.361s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.637] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.440s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.707] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4662 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.070s since_tick_start=0.509s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4662.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:43.707] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4662 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=7 total_duplicate_capture_time=0.509s
+[2026-09-29 10:51:43.707] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.569s > budget=1.000s frame=4662 queue_size=1
+[2026-09-29 10:51:43.811] [DEBUG] [MainThread] [FRAME-STATE] frame=4663 event=SMART_DEVICE session=29684 session_frame=6 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.104s
+[2026-09-29 10:51:43.847] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4663
+[2026-09-29 10:51:44.096] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.942] has_front=True has_rear=False check_model=True file=camera_6_image_4663.bmp
+[2026-09-29 10:51:44.722] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:44.722] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 7
+[2026-09-29 10:51:44.722] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=7, needed=124) -> skipping
+[2026-09-29 10:51:45.005] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.063s since_tick_start=0.063s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.083] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.141s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.167] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.083s since_tick_start=0.224s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.237] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.070s since_tick_start=0.295s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.319] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.082s since_tick_start=0.377s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.397] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.455s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.460] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4663 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.063s since_tick_start=0.518s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4663.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:45.460] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4663 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=8 total_duplicate_capture_time=0.518s
+[2026-09-29 10:51:45.460] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.614s > budget=1.000s frame=4663 queue_size=0
+[2026-09-29 10:51:45.550] [DEBUG] [MainThread] [FRAME-STATE] frame=4664 event=SMART_DEVICE session=29684 session_frame=7 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.089s
+[2026-09-29 10:51:45.581] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4664
+[2026-09-29 10:51:45.831] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.952] has_front=True has_rear=False check_model=True file=camera_6_image_4664.bmp
+[2026-09-29 10:51:46.461] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:46.461] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 8
+[2026-09-29 10:51:46.461] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=8, needed=124) -> skipping
+[2026-09-29 10:51:46.745] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.070s since_tick_start=0.070s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:46.823] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.149s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:46.896] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.071s since_tick_start=0.221s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:46.976] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.080s since_tick_start=0.301s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:47.057] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.080s since_tick_start=0.382s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:47.132] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.073s since_tick_start=0.457s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:47.207] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4664 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.075s since_tick_start=0.532s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4664.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:47.207] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4664 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=9 total_duplicate_capture_time=0.532s
+[2026-09-29 10:51:47.207] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.626s > budget=1.000s frame=4664 queue_size=1
+[2026-09-29 10:51:47.311] [DEBUG] [MainThread] [FRAME-STATE] frame=4665 event=SMART_DEVICE session=29684 session_frame=8 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.104s
+[2026-09-29 10:51:47.347] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4665
+[2026-09-29 10:51:47.582] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.980] has_front=True has_rear=False check_model=True file=camera_6_image_4665.bmp
+[2026-09-29 10:51:48.176] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:48.176] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 9
+[2026-09-29 10:51:48.176] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=9, needed=124) -> skipping
+[2026-09-29 10:51:48.488] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.079s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.565] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.156s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.628] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.062s since_tick_start=0.219s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.706] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.079s since_tick_start=0.297s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.784] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.375s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.862] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.453s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.925] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4665 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.063s since_tick_start=0.516s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4665.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:48.925] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4665 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=10 total_duplicate_capture_time=0.516s
+[2026-09-29 10:51:48.925] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.578s > budget=1.000s frame=4665 queue_size=0
+[2026-09-29 10:51:49.027] [DEBUG] [MainThread] [FRAME-STATE] frame=4666 event=SMART_DEVICE session=29684 session_frame=9 has_car=True num_cars=2 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.102s
+[2026-09-29 10:51:49.066] [INFO ] [MainThread] [EVENT] SMART_DEVICE kept (multi-car entering but within timeout) frame=4666
+[2026-09-29 10:51:49.303] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.957, logo-model-t10x:0.767] has_front=True has_rear=False check_model=True file=camera_6_image_4666.bmp
+[2026-09-29 10:51:49.940] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:49.940] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 10
+[2026-09-29 10:51:49.940] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=10, needed=124) -> skipping
+[2026-09-29 10:51:50.222] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=TOP prev_session=29683 num_cars=2 grab_elapsed=0.061s since_tick_start=0.061s path=./pdi/gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.300] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=BRF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.140s path=./pdi/gemlik_factory_end_of_line_0_29683/BRF/camera_2_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.363] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=BRR prev_session=29683 num_cars=2 grab_elapsed=0.062s since_tick_start=0.202s path=./pdi/gemlik_factory_end_of_line_0_29683/BRR/camera_3_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.440] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=BLF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.280s path=./pdi/gemlik_factory_end_of_line_0_29683/BLF/camera_0_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.519] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=MLF prev_session=29683 num_cars=2 grab_elapsed=0.078s since_tick_start=0.358s path=./pdi/gemlik_factory_end_of_line_0_29683/MLF/camera_4_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.600] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=BLR prev_session=29683 num_cars=2 grab_elapsed=0.081s since_tick_start=0.439s path=./pdi/gemlik_factory_end_of_line_0_29683/BLR/camera_1_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.676] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4666 cam=MRF prev_session=29683 num_cars=2 grab_elapsed=0.076s since_tick_start=0.515s path=./pdi/gemlik_factory_end_of_line_0_29683/MRF/camera_5_image_4666.bmp (LIVE RE-GRAB, not a copy of the new session's frame)
+[2026-09-29 10:51:50.676] [INFO ] [MainThread] [CAPTURE-DUPLICATE] frame=4666 also saved to previous session (still in frame) path=./pdi/gemlik_factory_end_of_line_0_29683 trailing_count=11 total_duplicate_capture_time=0.516s
+[2026-09-29 10:51:50.676] [WARNING] [MainThread] [CAPTURE] SLOW cycle! capture_time=1.610s > budget=1.000s frame=4666 queue_size=1
+[2026-09-29 10:51:50.761] [DEBUG] [MainThread] [FRAME-STATE] frame=4667 event=SMART_DEVICE session=29684 session_frame=10 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.085s
+[2026-09-29 10:51:51.052] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.976] has_front=True has_rear=False check_model=False file=camera_6_image_4667.bmp
+[2026-09-29 10:51:51.674] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:51.674] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 11
+[2026-09-29 10:51:51.674] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=11, needed=124) -> skipping
+[2026-09-29 10:51:51.870] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4667 prev_session=29683 num_cars=1 clean_streak=1/8
+[2026-09-29 10:51:51.941] [DEBUG] [MainThread] [FRAME-STATE] frame=4668 event=SMART_DEVICE session=29684 session_frame=11 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.071s
+[2026-09-29 10:51:52.221] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.953] has_front=True has_rear=False check_model=False file=camera_6_image_4668.bmp
+[2026-09-29 10:51:52.831] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:52.831] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 12
+[2026-09-29 10:51:52.831] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=12, needed=124) -> skipping
+[2026-09-29 10:51:53.050] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4668 prev_session=29683 num_cars=1 clean_streak=2/8
+[2026-09-29 10:51:53.112] [DEBUG] [MainThread] [FRAME-STATE] frame=4669 event=SMART_DEVICE session=29684 session_frame=12 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:51:53.396] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.944] has_front=True has_rear=False check_model=False file=camera_6_image_4669.bmp
+[2026-09-29 10:51:54.009] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:54.009] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 13
+[2026-09-29 10:51:54.009] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=13, needed=124) -> skipping
+[2026-09-29 10:51:54.243] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4669 prev_session=29683 num_cars=1 clean_streak=3/8
+[2026-09-29 10:51:54.306] [DEBUG] [MainThread] [FRAME-STATE] frame=4670 event=SMART_DEVICE session=29684 session_frame=13 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:51:54.587] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.924] has_front=True has_rear=False check_model=False file=camera_6_image_4670.bmp
+[2026-09-29 10:51:55.214] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:55.214] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 14
+[2026-09-29 10:51:55.214] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=14, needed=124) -> skipping
+[2026-09-29 10:51:55.449] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4670 prev_session=29683 num_cars=1 clean_streak=4/8
+[2026-09-29 10:51:55.526] [DEBUG] [MainThread] [FRAME-STATE] frame=4671 event=SMART_DEVICE session=29684 session_frame=14 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:51:55.805] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.953] has_front=True has_rear=False check_model=False file=camera_6_image_4671.bmp
+[2026-09-29 10:51:56.449] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:56.449] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 15
+[2026-09-29 10:51:56.449] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=15, needed=124) -> skipping
+[2026-09-29 10:51:56.667] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4671 prev_session=29683 num_cars=1 clean_streak=5/8
+[2026-09-29 10:51:56.742] [DEBUG] [MainThread] [FRAME-STATE] frame=4672 event=SMART_DEVICE session=29684 session_frame=15 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.074s
+[2026-09-29 10:51:57.028] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.964] has_front=True has_rear=False check_model=False file=camera_6_image_4672.bmp
+[2026-09-29 10:51:57.623] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:57.623] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 16
+[2026-09-29 10:51:57.623] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=16, needed=124) -> skipping
+[2026-09-29 10:51:57.856] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4672 prev_session=29683 num_cars=1 clean_streak=6/8
+[2026-09-29 10:51:57.933] [DEBUG] [MainThread] [FRAME-STATE] frame=4673 event=SMART_DEVICE session=29684 session_frame=16 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:51:58.215] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.935] has_front=True has_rear=False check_model=False file=camera_6_image_4673.bmp
+[2026-09-29 10:51:58.824] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:58.824] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 17
+[2026-09-29 10:51:58.824] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=17, needed=124) -> skipping
+[2026-09-29 10:51:59.058] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4673 prev_session=29683 num_cars=1 clean_streak=7/8
+[2026-09-29 10:51:59.124] [DEBUG] [MainThread] [FRAME-STATE] frame=4674 event=SMART_DEVICE session=29684 session_frame=17 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.066s
+[2026-09-29 10:51:59.402] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.972] has_front=True has_rear=False check_model=False file=camera_6_image_4674.bmp
+[2026-09-29 10:51:59.995] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:51:59.995] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 18
+[2026-09-29 10:51:59.995] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=18, needed=124) -> skipping
+[2026-09-29 10:52:00.230] [INFO ] [MainThread] [CAPTURE-DUPLICATE-DETAIL] frame=4674 prev_session=29683 num_cars=1 clean_streak=8/8
+[2026-09-29 10:52:00.230] [INFO ] [MainThread] [END] === SESSION ENDED === session=29683 total_frames=135 duration=190.4s pending_in_queue=0 path=./pdi/gemlik_factory_end_of_line_0_29683
+[2026-09-29 10:52:00.230] [INFO ] [MainThread] [CAPTURE-DUPLICATE] previous session confirmed clear after 8 clean frames, finalized path=./pdi/gemlik_factory_end_of_line_0_29683
+[2026-09-29 10:52:00.230] [INFO ] [Thread-2] [REQUEST-QUEUE] START create_request path=./pdi/gemlik_factory_end_of_line_0_29683
+[2026-09-29 10:52:00.230] [INFO ] [Thread-2] [CREATE-REQ] START path=./pdi/gemlik_factory_end_of_line_0_29683
+[2026-09-29 10:52:00.230] [INFO ] [Thread-2] [CREATE-REQ] analyze_id=gemlik_factory_end_of_line_0_29683 proof_images=134 frames=4533-4666
+[2026-09-29 10:52:00.245] [INFO ] [Thread-2] [CREATE-REQ] cam=BLF: proof=134 bmp=0 defect_json=0
+[2026-09-29 10:52:00.245] [INFO ] [Thread-2] [CREATE-REQ] cam=BLR: proof=134 bmp=0 defect_json=0
+[2026-09-29 10:52:00.261] [INFO ] [Thread-2] [CREATE-REQ] cam=BRF: proof=134 bmp=1 defect_json=1
+[2026-09-29 10:52:00.274] [INFO ] [Thread-2] [CREATE-REQ] cam=BRR: proof=134 bmp=1 defect_json=1
+[2026-09-29 10:52:00.276] [INFO ] [Thread-2] [CREATE-REQ] cam=MLF: proof=134 bmp=0 defect_json=0
+[2026-09-29 10:52:00.276] [INFO ] [Thread-2] [CREATE-REQ] cam=MRF: proof=134 bmp=1 defect_json=1
+[2026-09-29 10:52:00.292] [INFO ] [Thread-2] [CREATE-REQ] cam=TOP: proof=134 bmp=3 defect_json=3
+[2026-09-29 10:52:00.292] [INFO ] [Thread-2] [CREATE-REQ] LOGO-ACTUAL: front_logo=True rear_logo=True front_path=gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4557_front_logo.png rear_path=gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4657_rear_logo.png
+[2026-09-29 10:52:00.303] [INFO ] [Thread-2] [CREATE-REQ] Classifications: keyless=(True, True) fog=True rim=v2-black slat=black-edition-chromium model=t10x front_sensor=True rear_sensor=True front_logo=True rear_logo=True
+[2026-09-29 10:52:00.308] [DEBUG] [MainThread] [FRAME-STATE] frame=4675 event=SMART_DEVICE session=29684 session_frame=18 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:00.371] [INFO ] [Thread-2] [ADD-PARTS] cam=BRF frame=4583 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.371] [INFO ] [Thread-2] [DECIDE-PART] cam=BRF frame=4583 damage=dent bbox=[714, 610, 879, 743] candidates=[charger-cap(cov=1.00,inter=21949,part_area=851235,conf=0.53)] -> choice=charger-cap
+[2026-09-29 10:52:00.371] [INFO ] [Thread-2] [DECIDE-PART] cam=BRF frame=4583 damage=dent SKIPPED reason=charger_cap_excluded part=charger-cap
+[2026-09-29 10:52:00.429] [INFO ] [Thread-2] [ADD-PARTS] cam=BRR frame=4578 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.431] [INFO ] [Thread-2] [DECIDE-PART] cam=BRR frame=4578 damage=dent bbox=[1859, 335, 2034, 477] candidates=[charger-cap(cov=1.00,inter=24803,part_area=861777,conf=0.98)] -> choice=charger-cap
+[2026-09-29 10:52:00.431] [INFO ] [Thread-2] [DECIDE-PART] cam=BRR frame=4578 damage=dent SKIPPED reason=charger_cap_excluded part=charger-cap
+[2026-09-29 10:52:00.465] [INFO ] [Thread-2] [ADD-PARTS] cam=MRF frame=4610 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.480] [INFO ] [Thread-2] [DECIDE-PART] cam=MRF frame=4610 damage=dent-small bbox=[2495, 2706, 2544, 2771] candidates=[front-door(cov=1.00,inter=3175,part_area=3999545,conf=0.99)] -> choice=front-door
+[2026-09-29 10:52:00.480] [INFO ] [Thread-2] [DECIDE-PART] cam=MRF frame=4610 damage=dent-small FINAL part=front-door image=camera_5_image_4610.jpg
+[2026-09-29 10:52:00.480] [INFO ] [Thread-2] [POSITION] cam=MRF frame=4610 damage=dent-small part=front-door name=ÖN ORTA x=0.7551064567084083 y=0.40974695511358 vis=0.82338794063747 mask_area=3999545
+[2026-09-29 10:52:00.563] [INFO ] [Thread-2] [ADD-PARTS] cam=TOP frame=4556 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.618] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.944] has_front=True has_rear=False check_model=False file=camera_6_image_4675.bmp
+[2026-09-29 10:52:00.619] [INFO ] [Thread-2] [ADD-PARTS] cam=TOP frame=4562 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.654] [INFO ] [Thread-2] [ADD-PARTS] cam=TOP frame=4563 added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.654] [INFO ] [Thread-2] [DECIDE-PART] cam=TOP frame=4563 damage=dent-small bbox=[2065, 1402, 2258, 1526] candidates=[hood(cov=1.00,inter=23685,part_area=4008471,conf=0.99)] -> choice=hood
+[2026-09-29 10:52:00.654] [INFO ] [Thread-2] [DECIDE-PART] cam=TOP frame=4563 damage=dent-small FINAL part=hood image=camera_6_image_4563.jpg
+[2026-09-29 10:52:00.654] [INFO ] [Thread-2] [POSITION] cam=TOP frame=4563 damage=dent-small part=hood name=ÖN ORTA x=0.5786226782643499 y=0.6969523237196769 vis=0.8945191654978458 mask_area=4008471
+[2026-09-29 10:52:00.712] [INFO ] [Thread-2] [SUMMARY] analyze_id=gemlik_factory_end_of_line_0_29683 slat=black-edition-chromium damages_matched=2 no_part_match=0
+[2026-09-29 10:52:00.712] [INFO ] [Thread-2] [SUMMARY] analyze_id=gemlik_factory_end_of_line_0_29683 matched_per_cam: MRF=1 TOP=1
+[2026-09-29 10:52:00.712] [INFO ] [Thread-2] [SUMMARY] analyze_id=gemlik_factory_end_of_line_0_29683 no_part_match_per_cam: -
+[2026-09-29 10:52:00.714] [INFO ] [Thread-2] [ADD-PARTS] logo-image path=gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4557_front_logo.png added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.714] [INFO ] [Thread-2] [ADD-PARTS] logo-image path=gemlik_factory_end_of_line_0_29683/TOP/camera_6_image_4657_rear_logo.png added 34 visible_parts (unconditional — not filtered by which camera/image this is): ['deck', 'deck-upper', 'front-bumper', 'front-door', 'front-door-plastic', 'front-mudguard', 'mudguard-plastic', 'charger-cap', 'rear-bumper', 'rear-door', 'rear-door-plastic', 'rear-mudguard', 'side-panel', 'hood', 'soft-nose', 'roof', 'roof-upper', 'footboard', 'wheel', 'headlight', 'taillight', 'mirror', 'front-logo', 'rear-logo', 'keyless-entry-left', 'keyless-entry-right', 'fog-light', 'black-edition-chrome-slat', 'rim-v2-black', 't10x-logo', 'front-parking-sensor', 'rear-parking-sensor', 'cam_mirror', 'unknown']
+[2026-09-29 10:52:00.714] [INFO ] [Thread-2] [CREATE-REQ] Uploading 4 images to S3...
+[2026-09-29 10:52:01.216] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:01.216] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 19
+[2026-09-29 10:52:01.216] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=19, needed=124) -> skipping
+[2026-09-29 10:52:01.526] [DEBUG] [MainThread] [FRAME-STATE] frame=4676 event=SMART_DEVICE session=29684 session_frame=19 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:52:01.807] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.960] has_front=True has_rear=False check_model=False file=camera_6_image_4676.bmp
+[2026-09-29 10:52:01.807] [INFO ] [Thread-2] [CREATE-REQ] S3 upload done: 4 images in 1.094s
+[2026-09-29 10:52:01.823] [INFO ] [Thread-2] [CREATE-REQ] Sending API request for be_analyze_id=279781...
+[2026-09-29 10:52:02.302] [INFO ] [Thread-2] [API] POST https://claimapi.togg.cloud/PDIVehicleAnalyze status=200 elapsed=0.480s
+[2026-09-29 10:52:02.304] [INFO ] [Thread-2] [CREATE-REQ] COMPLETE path=./pdi/gemlik_factory_end_of_line_0_29683 total_elapsed=2.074s
+[2026-09-29 10:52:02.305] [INFO ] [Thread-2] [REQUEST-QUEUE] DONE  create_request path=./pdi/gemlik_factory_end_of_line_0_29683 elapsed=2.075s
+[2026-09-29 10:52:02.433] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:02.433] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 20
+[2026-09-29 10:52:02.433] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=20, needed=124) -> skipping
+[2026-09-29 10:52:02.744] [DEBUG] [MainThread] [FRAME-STATE] frame=4677 event=SMART_DEVICE session=29684 session_frame=20 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:03.027] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.936] has_front=True has_rear=False check_model=False file=camera_6_image_4677.bmp
+[2026-09-29 10:52:03.656] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:03.656] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 21
+[2026-09-29 10:52:03.656] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=21, needed=124) -> skipping
+[2026-09-29 10:52:03.934] [DEBUG] [MainThread] [FRAME-STATE] frame=4678 event=SMART_DEVICE session=29684 session_frame=21 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:52:03.982] [INFO ] [AnalysisWorker-1] [ANALYZE] HEADLIGHT black cam=MRF file=camera_5_image_4677.bmp
+[2026-09-29 10:52:04.231] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.965] has_front=True has_rear=False check_model=False file=camera_6_image_4678.bmp
+[2026-09-29 10:52:04.842] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:04.842] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 22
+[2026-09-29 10:52:04.842] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=22, needed=124) -> skipping
+[2026-09-29 10:52:05.127] [DEBUG] [MainThread] [FRAME-STATE] frame=4679 event=SMART_DEVICE session=29684 session_frame=22 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:52:05.427] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.953] has_front=True has_rear=False check_model=False file=camera_6_image_4679.bmp
+[2026-09-29 10:52:06.027] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:06.027] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 23
+[2026-09-29 10:52:06.027] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=23, needed=124) -> skipping
+[2026-09-29 10:52:06.339] [DEBUG] [MainThread] [FRAME-STATE] frame=4680 event=SMART_DEVICE session=29684 session_frame=23 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:52:06.636] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.961] has_front=True has_rear=False check_model=False file=camera_6_image_4680.bmp
+[2026-09-29 10:52:07.245] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:07.245] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 24
+[2026-09-29 10:52:07.245] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=24, needed=124) -> skipping
+[2026-09-29 10:52:07.277] [INFO ] [AnalysisWorker-2] [ANALYZE] HEADLIGHT black cam=MLF file=camera_4_image_4680.bmp
+[2026-09-29 10:52:07.559] [DEBUG] [MainThread] [FRAME-STATE] frame=4681 event=SMART_DEVICE session=29684 session_frame=24 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:07.843] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.955] has_front=True has_rear=False check_model=False file=camera_6_image_4681.bmp
+[2026-09-29 10:52:08.463] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:08.464] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 25
+[2026-09-29 10:52:08.464] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=25, needed=124) -> skipping
+[2026-09-29 10:52:08.749] [DEBUG] [MainThread] [FRAME-STATE] frame=4682 event=SMART_DEVICE session=29684 session_frame=25 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.065s
+[2026-09-29 10:52:09.044] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.978] has_front=True has_rear=False check_model=False file=camera_6_image_4682.bmp
+[2026-09-29 10:52:09.653] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:09.653] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 26
+[2026-09-29 10:52:09.653] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=26, needed=124) -> skipping
+[2026-09-29 10:52:09.964] [DEBUG] [MainThread] [FRAME-STATE] frame=4683 event=SMART_DEVICE session=29684 session_frame=26 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:10.309] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.973] has_front=True has_rear=False check_model=False file=camera_6_image_4683.bmp
+[2026-09-29 10:52:10.886] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:10.886] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 27
+[2026-09-29 10:52:10.886] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=27, needed=124) -> skipping
+[2026-09-29 10:52:11.183] [DEBUG] [MainThread] [FRAME-STATE] frame=4684 event=SMART_DEVICE session=29684 session_frame=27 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:11.434] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.963] has_front=True has_rear=False check_model=False file=camera_6_image_4684.bmp
+[2026-09-29 10:52:12.081] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:12.081] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 28
+[2026-09-29 10:52:12.081] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=28, needed=124) -> skipping
+[2026-09-29 10:52:12.367] [DEBUG] [MainThread] [FRAME-STATE] frame=4685 event=SMART_DEVICE session=29684 session_frame=28 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.064s
+[2026-09-29 10:52:12.629] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.984] has_front=True has_rear=False check_model=False file=camera_6_image_4685.bmp
+[2026-09-29 10:52:13.247] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:13.248] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 29
+[2026-09-29 10:52:13.248] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=29, needed=124) -> skipping
+[2026-09-29 10:52:13.552] [DEBUG] [MainThread] [FRAME-STATE] frame=4686 event=SMART_DEVICE session=29684 session_frame=29 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:13.816] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.983] has_front=True has_rear=False check_model=False file=camera_6_image_4686.bmp
+[2026-09-29 10:52:14.462] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:14.462] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 30
+[2026-09-29 10:52:14.462] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=30, needed=124) -> skipping
+[2026-09-29 10:52:14.738] [DEBUG] [MainThread] [FRAME-STATE] frame=4687 event=SMART_DEVICE session=29684 session_frame=30 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.061s
+[2026-09-29 10:52:15.036] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.973] has_front=True has_rear=False check_model=False file=camera_6_image_4687.bmp
+[2026-09-29 10:52:15.636] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:15.636] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 31
+[2026-09-29 10:52:15.637] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=31, needed=124) -> skipping
+[2026-09-29 10:52:15.925] [DEBUG] [MainThread] [FRAME-STATE] frame=4688 event=SMART_DEVICE session=29684 session_frame=31 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:16.193] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.989] has_front=True has_rear=False check_model=False file=camera_6_image_4688.bmp
+[2026-09-29 10:52:16.815] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:16.815] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 32
+[2026-09-29 10:52:16.815] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=32, needed=124) -> skipping
+[2026-09-29 10:52:17.097] [DEBUG] [MainThread] [FRAME-STATE] frame=4689 event=SMART_DEVICE session=29684 session_frame=32 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:52:17.364] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.975] has_front=True has_rear=False check_model=False file=camera_6_image_4689.bmp
+[2026-09-29 10:52:17.989] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:17.989] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 33
+[2026-09-29 10:52:17.989] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=33, needed=124) -> skipping
+[2026-09-29 10:52:18.272] [DEBUG] [MainThread] [FRAME-STATE] frame=4690 event=SMART_DEVICE session=29684 session_frame=33 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.083s
+[2026-09-29 10:52:18.555] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.950] has_front=True has_rear=False check_model=False file=camera_6_image_4690.bmp
+[2026-09-29 10:52:19.206] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:19.206] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 34
+[2026-09-29 10:52:19.206] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=34, needed=124) -> skipping
+[2026-09-29 10:52:19.488] [DEBUG] [MainThread] [FRAME-STATE] frame=4691 event=SMART_DEVICE session=29684 session_frame=34 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:19.764] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.943] has_front=True has_rear=False check_model=False file=camera_6_image_4691.bmp
+[2026-09-29 10:52:20.367] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:20.367] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 35
+[2026-09-29 10:52:20.367] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=35, needed=124) -> skipping
+[2026-09-29 10:52:20.655] [DEBUG] [MainThread] [FRAME-STATE] frame=4692 event=SMART_DEVICE session=29684 session_frame=35 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.090s
+[2026-09-29 10:52:20.911] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.895] has_front=True has_rear=False check_model=False file=camera_6_image_4692.bmp
+[2026-09-29 10:52:21.556] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:21.556] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 36
+[2026-09-29 10:52:21.556] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=36, needed=124) -> skipping
+[2026-09-29 10:52:21.836] [DEBUG] [MainThread] [FRAME-STATE] frame=4693 event=SMART_DEVICE session=29684 session_frame=36 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:52:22.130] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.848] has_front=True has_rear=False check_model=False file=camera_6_image_4693.bmp
+[2026-09-29 10:52:22.741] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:22.741] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 37
+[2026-09-29 10:52:22.741] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=37, needed=124) -> skipping
+[2026-09-29 10:52:23.056] [DEBUG] [MainThread] [FRAME-STATE] frame=4694 event=SMART_DEVICE session=29684 session_frame=37 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:52:23.334] [INFO ] [AnalysisWorker-0] [LOGO-DET] cam=TOP detections=[f:0.868] has_front=True has_rear=False check_model=False file=camera_6_image_4694.bmp
+[2026-09-29 10:52:23.925] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:23.925] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 38
+[2026-09-29 10:52:23.925] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=38, needed=124) -> skipping
+[2026-09-29 10:52:24.254] [DEBUG] [MainThread] [FRAME-STATE] frame=4695 event=SMART_DEVICE session=29684 session_frame=38 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:52:24.543] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.791] has_front=True has_rear=False check_model=False file=camera_6_image_4695.bmp
+[2026-09-29 10:52:25.147] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:25.147] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 39
+[2026-09-29 10:52:25.147] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=39, needed=124) -> skipping
+[2026-09-29 10:52:25.460] [DEBUG] [MainThread] [FRAME-STATE] frame=4696 event=SMART_DEVICE session=29684 session_frame=39 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.082s
+[2026-09-29 10:52:25.737] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.900] has_front=True has_rear=False check_model=False file=camera_6_image_4696.bmp
+[2026-09-29 10:52:26.350] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:26.350] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 40
+[2026-09-29 10:52:26.350] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=40, needed=124) -> skipping
+[2026-09-29 10:52:26.657] [DEBUG] [MainThread] [FRAME-STATE] frame=4697 event=SMART_DEVICE session=29684 session_frame=40 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.074s
+[2026-09-29 10:52:26.931] [INFO ] [AnalysisWorker-1] [LOGO-DET] cam=TOP detections=[f:0.913] has_front=True has_rear=False check_model=False file=camera_6_image_4697.bmp
+[2026-09-29 10:52:27.557] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:27.557] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 41
+[2026-09-29 10:52:27.557] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=41, needed=124) -> skipping
+[2026-09-29 10:52:27.861] [DEBUG] [MainThread] [FRAME-STATE] frame=4698 event=SMART_DEVICE session=29684 session_frame=41 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:52:28.150] [INFO ] [AnalysisWorker-2] [LOGO-DET] cam=TOP detections=[f:0.770] has_front=True has_rear=False check_model=False file=camera_6_image_4698.bmp
+[2026-09-29 10:52:28.763] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:28.763] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 42
+[2026-09-29 10:52:28.763] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=42, needed=124) -> skipping
+[2026-09-29 10:52:29.050] [DEBUG] [MainThread] [FRAME-STATE] frame=4699 event=SMART_DEVICE session=29684 session_frame=42 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.060s
+[2026-09-29 10:52:29.944] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:29.944] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 43
+[2026-09-29 10:52:29.944] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=43, needed=124) -> skipping
+[2026-09-29 10:52:30.261] [DEBUG] [MainThread] [FRAME-STATE] frame=4700 event=SMART_DEVICE session=29684 session_frame=43 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.084s
+[2026-09-29 10:52:31.151] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:31.151] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 44
+[2026-09-29 10:52:31.151] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=44, needed=124) -> skipping
+[2026-09-29 10:52:31.463] [DEBUG] [MainThread] [FRAME-STATE] frame=4701 event=SMART_DEVICE session=29684 session_frame=44 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:32.369] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:32.369] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 45
+[2026-09-29 10:52:32.369] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=45, needed=124) -> skipping
+[2026-09-29 10:52:32.666] [DEBUG] [MainThread] [FRAME-STATE] frame=4702 event=SMART_DEVICE session=29684 session_frame=45 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:52:33.615] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:33.615] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 46
+[2026-09-29 10:52:33.615] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=46, needed=124) -> skipping
+[2026-09-29 10:52:33.885] [DEBUG] [MainThread] [FRAME-STATE] frame=4703 event=SMART_DEVICE session=29684 session_frame=46 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:52:34.778] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:34.778] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 47
+[2026-09-29 10:52:34.778] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=47, needed=124) -> skipping
+[2026-09-29 10:52:35.089] [DEBUG] [MainThread] [FRAME-STATE] frame=4704 event=SMART_DEVICE session=29684 session_frame=47 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:35.966] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:35.966] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 48
+[2026-09-29 10:52:35.966] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=48, needed=124) -> skipping
+[2026-09-29 10:52:36.272] [DEBUG] [MainThread] [FRAME-STATE] frame=4705 event=SMART_DEVICE session=29684 session_frame=48 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.074s
+[2026-09-29 10:52:37.154] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:37.154] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 49
+[2026-09-29 10:52:37.154] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=49, needed=124) -> skipping
+[2026-09-29 10:52:37.465] [DEBUG] [MainThread] [FRAME-STATE] frame=4706 event=SMART_DEVICE session=29684 session_frame=49 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.080s
+[2026-09-29 10:52:38.395] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:38.395] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 50
+[2026-09-29 10:52:38.395] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=50, needed=124) -> skipping
+[2026-09-29 10:52:38.683] [DEBUG] [MainThread] [FRAME-STATE] frame=4707 event=SMART_DEVICE session=29684 session_frame=50 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.080s
+[2026-09-29 10:52:39.604] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:39.604] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 51
+[2026-09-29 10:52:39.604] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=51, needed=124) -> skipping
+[2026-09-29 10:52:39.634] [INFO ] [AnalysisWorker-0] [ANALYZE] PERSON DETECTED cam=MLF
+[2026-09-29 10:52:39.901] [DEBUG] [MainThread] [FRAME-STATE] frame=4708 event=SMART_DEVICE session=29684 session_frame=51 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:40.840] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:40.840] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 52
+[2026-09-29 10:52:40.840] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=52, needed=124) -> skipping
+[2026-09-29 10:52:41.120] [DEBUG] [MainThread] [FRAME-STATE] frame=4709 event=SMART_DEVICE session=29684 session_frame=52 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:42.012] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:42.012] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 53
+[2026-09-29 10:52:42.012] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=53, needed=124) -> skipping
+[2026-09-29 10:52:42.323] [DEBUG] [MainThread] [FRAME-STATE] frame=4710 event=SMART_DEVICE session=29684 session_frame=53 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.077s
+[2026-09-29 10:52:43.215] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:43.215] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 54
+[2026-09-29 10:52:43.215] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=54, needed=124) -> skipping
+[2026-09-29 10:52:43.519] [DEBUG] [MainThread] [FRAME-STATE] frame=4711 event=SMART_DEVICE session=29684 session_frame=54 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.071s
+[2026-09-29 10:52:44.428] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:44.428] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 55
+[2026-09-29 10:52:44.428] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=55, needed=124) -> skipping
+[2026-09-29 10:52:44.732] [DEBUG] [MainThread] [FRAME-STATE] frame=4712 event=SMART_DEVICE session=29684 session_frame=55 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.081s
+[2026-09-29 10:52:45.620] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:45.620] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 56
+[2026-09-29 10:52:45.620] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=56, needed=124) -> skipping
+[2026-09-29 10:52:45.932] [DEBUG] [MainThread] [FRAME-STATE] frame=4713 event=SMART_DEVICE session=29684 session_frame=56 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:52:46.836] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:46.836] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 57
+[2026-09-29 10:52:46.836] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=57, needed=124) -> skipping
+[2026-09-29 10:52:47.123] [DEBUG] [MainThread] [FRAME-STATE] frame=4714 event=SMART_DEVICE session=29684 session_frame=57 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.065s
+[2026-09-29 10:52:48.031] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:48.031] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 58
+[2026-09-29 10:52:48.031] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=58, needed=124) -> skipping
+[2026-09-29 10:52:48.341] [DEBUG] [MainThread] [FRAME-STATE] frame=4715 event=SMART_DEVICE session=29684 session_frame=58 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:49.245] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:49.245] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 59
+[2026-09-29 10:52:49.245] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=59, needed=124) -> skipping
+[2026-09-29 10:52:49.550] [DEBUG] [MainThread] [FRAME-STATE] frame=4716 event=SMART_DEVICE session=29684 session_frame=59 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.071s
+[2026-09-29 10:52:50.469] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:50.469] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 60
+[2026-09-29 10:52:50.469] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=60, needed=124) -> skipping
+[2026-09-29 10:52:50.746] [DEBUG] [MainThread] [FRAME-STATE] frame=4717 event=SMART_DEVICE session=29684 session_frame=60 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:51.622] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:51.622] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 61
+[2026-09-29 10:52:51.622] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=61, needed=124) -> skipping
+[2026-09-29 10:52:51.932] [DEBUG] [MainThread] [FRAME-STATE] frame=4718 event=SMART_DEVICE session=29684 session_frame=61 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.075s
+[2026-09-29 10:52:52.857] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:52.857] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 62
+[2026-09-29 10:52:52.857] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=62, needed=124) -> skipping
+[2026-09-29 10:52:53.122] [DEBUG] [MainThread] [FRAME-STATE] frame=4719 event=SMART_DEVICE session=29684 session_frame=62 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.064s
+[2026-09-29 10:52:54.020] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:54.020] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 63
+[2026-09-29 10:52:54.020] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=63, needed=124) -> skipping
+[2026-09-29 10:52:54.332] [DEBUG] [MainThread] [FRAME-STATE] frame=4720 event=SMART_DEVICE session=29684 session_frame=63 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:52:55.239] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:55.239] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 64
+[2026-09-29 10:52:55.239] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=64, needed=124) -> skipping
+[2026-09-29 10:52:55.537] [DEBUG] [MainThread] [FRAME-STATE] frame=4721 event=SMART_DEVICE session=29684 session_frame=64 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:52:56.457] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:56.457] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 65
+[2026-09-29 10:52:56.457] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=65, needed=124) -> skipping
+[2026-09-29 10:52:56.737] [DEBUG] [MainThread] [FRAME-STATE] frame=4722 event=SMART_DEVICE session=29684 session_frame=65 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.075s
+[2026-09-29 10:52:57.657] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:57.657] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 66
+[2026-09-29 10:52:57.657] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=66, needed=124) -> skipping
+[2026-09-29 10:52:57.930] [DEBUG] [MainThread] [FRAME-STATE] frame=4723 event=SMART_DEVICE session=29684 session_frame=66 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.080s
+[2026-09-29 10:52:58.816] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:52:58.816] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 67
+[2026-09-29 10:52:58.816] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=67, needed=124) -> skipping
+[2026-09-29 10:52:59.114] [DEBUG] [MainThread] [FRAME-STATE] frame=4724 event=SMART_DEVICE session=29684 session_frame=67 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:53:00.030] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:00.030] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 68
+[2026-09-29 10:53:00.030] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=68, needed=124) -> skipping
+[2026-09-29 10:53:00.319] [DEBUG] [MainThread] [FRAME-STATE] frame=4725 event=SMART_DEVICE session=29684 session_frame=68 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:53:01.230] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:01.230] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 69
+[2026-09-29 10:53:01.230] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=69, needed=124) -> skipping
+[2026-09-29 10:53:01.508] [DEBUG] [MainThread] [FRAME-STATE] frame=4726 event=SMART_DEVICE session=29684 session_frame=69 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:53:02.410] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:02.410] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 70
+[2026-09-29 10:53:02.410] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=70, needed=124) -> skipping
+[2026-09-29 10:53:02.707] [DEBUG] [MainThread] [FRAME-STATE] frame=4727 event=SMART_DEVICE session=29684 session_frame=70 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:53:03.626] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:03.626] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 71
+[2026-09-29 10:53:03.626] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=71, needed=124) -> skipping
+[2026-09-29 10:53:03.910] [DEBUG] [MainThread] [FRAME-STATE] frame=4728 event=SMART_DEVICE session=29684 session_frame=71 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:53:04.806] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:04.806] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 72
+[2026-09-29 10:53:04.806] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=72, needed=124) -> skipping
+[2026-09-29 10:53:05.084] [DEBUG] [MainThread] [FRAME-STATE] frame=4729 event=SMART_DEVICE session=29684 session_frame=72 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:53:05.881] [INFO ] [AnalysisWorker-0] [ANALYZE] KEYLESS ENTRY detected: cam=BLF
+[2026-09-29 10:53:06.004] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:06.004] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 73
+[2026-09-29 10:53:06.004] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=73, needed=124) -> skipping
+[2026-09-29 10:53:06.292] [DEBUG] [MainThread] [FRAME-STATE] frame=4730 event=SMART_DEVICE session=29684 session_frame=73 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.069s
+[2026-09-29 10:53:06.781] [INFO ] [AnalysisWorker-2] [ANALYZE] KEYLESS ENTRY detected: cam=BRF
+[2026-09-29 10:53:07.192] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:07.192] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 74
+[2026-09-29 10:53:07.192] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=74, needed=124) -> skipping
+[2026-09-29 10:53:07.488] [DEBUG] [MainThread] [FRAME-STATE] frame=4731 event=SMART_DEVICE session=29684 session_frame=74 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:53:08.378] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:08.379] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 75
+[2026-09-29 10:53:08.379] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=75, needed=124) -> skipping
+[2026-09-29 10:53:08.676] [DEBUG] [MainThread] [FRAME-STATE] frame=4732 event=SMART_DEVICE session=29684 session_frame=75 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.076s
+[2026-09-29 10:53:09.561] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:09.561] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 76
+[2026-09-29 10:53:09.561] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=76, needed=124) -> skipping
+[2026-09-29 10:53:09.853] [DEBUG] [MainThread] [FRAME-STATE] frame=4733 event=SMART_DEVICE session=29684 session_frame=76 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.081s
+[2026-09-29 10:53:10.603] [INFO ] [AnalysisWorker-1] [ANALYZE] DEFECT cam=BLF dents=1 scratches=0 file=camera_0_image_4733.bmp
+[2026-09-29 10:53:10.774] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:10.774] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 77
+[2026-09-29 10:53:10.774] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=77, needed=124) -> skipping
+[2026-09-29 10:53:11.035] [DEBUG] [MainThread] [FRAME-STATE] frame=4734 event=SMART_DEVICE session=29684 session_frame=77 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.079s
+[2026-09-29 10:53:11.943] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:11.943] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 78
+[2026-09-29 10:53:11.943] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=78, needed=124) -> skipping
+[2026-09-29 10:53:12.240] [DEBUG] [MainThread] [FRAME-STATE] frame=4735 event=SMART_DEVICE session=29684 session_frame=78 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.075s
+[2026-09-29 10:53:13.162] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:13.162] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 79
+[2026-09-29 10:53:13.162] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=79, needed=124) -> skipping
+[2026-09-29 10:53:13.463] [DEBUG] [MainThread] [FRAME-STATE] frame=4736 event=SMART_DEVICE session=29684 session_frame=79 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.083s
+[2026-09-29 10:53:14.379] [INFO ] [AnalysisWorker-2] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:53:14.379] [INFO ] [AnalysisWorker-2] [SLAT] Total MLF frames: 80
+[2026-09-29 10:53:14.379] [INFO ] [AnalysisWorker-2] [SLAT] Not enough frames yet (total=80, needed=124) -> skipping
+[2026-09-29 10:53:14.683] [DEBUG] [MainThread] [FRAME-STATE] frame=4737 event=SMART_DEVICE session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.081s
+[2026-09-29 10:53:14.718] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.009520% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:14.720] [INFO ] [MainThread] [EVENT] SMART_DEVICE -> NO_MOTION (no motion detected) frame=4737 session_frames=80
+[2026-09-29 10:53:15.801] [DEBUG] [MainThread] [FRAME-STATE] frame=4738 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:15.823] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.004788% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:16.903] [DEBUG] [MainThread] [FRAME-STATE] frame=4739 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.061s
+[2026-09-29 10:53:16.930] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.001522% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:17.992] [DEBUG] [MainThread] [FRAME-STATE] frame=4740 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:18.024] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000655% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:19.116] [DEBUG] [MainThread] [FRAME-STATE] frame=4741 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:19.146] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000540% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:20.209] [DEBUG] [MainThread] [FRAME-STATE] frame=4742 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:53:20.240] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000270% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:21.301] [DEBUG] [MainThread] [FRAME-STATE] frame=4743 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:53:21.317] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:22.393] [DEBUG] [MainThread] [FRAME-STATE] frame=4744 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.051s
+[2026-09-29 10:53:22.405] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:23.480] [DEBUG] [MainThread] [FRAME-STATE] frame=4745 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.050s
+[2026-09-29 10:53:23.509] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:24.580] [DEBUG] [MainThread] [FRAME-STATE] frame=4746 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:24.612] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000016% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:25.700] [DEBUG] [MainThread] [FRAME-STATE] frame=4747 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.065s
+[2026-09-29 10:53:25.715] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:26.801] [DEBUG] [MainThread] [FRAME-STATE] frame=4748 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:26.832] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:27.903] [DEBUG] [MainThread] [FRAME-STATE] frame=4749 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:27.934] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:29.010] [DEBUG] [MainThread] [FRAME-STATE] frame=4750 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.056s
+[2026-09-29 10:53:29.038] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:30.088] [DEBUG] [MainThread] [FRAME-STATE] frame=4751 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:30.120] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:31.200] [DEBUG] [MainThread] [FRAME-STATE] frame=4752 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.055s
+[2026-09-29 10:53:31.224] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:32.309] [DEBUG] [MainThread] [FRAME-STATE] frame=4753 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.055s
+[2026-09-29 10:53:32.324] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:33.400] [DEBUG] [MainThread] [FRAME-STATE] frame=4754 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.065s
+[2026-09-29 10:53:33.414] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:34.471] [DEBUG] [MainThread] [FRAME-STATE] frame=4755 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.032s
+[2026-09-29 10:53:34.502] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:35.586] [DEBUG] [MainThread] [FRAME-STATE] frame=4756 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.061s
+[2026-09-29 10:53:35.612] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:36.680] [DEBUG] [MainThread] [FRAME-STATE] frame=4757 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:36.711] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:37.782] [DEBUG] [MainThread] [FRAME-STATE] frame=4758 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:37.813] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:38.866] [DEBUG] [MainThread] [FRAME-STATE] frame=4759 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:38.897] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:39.957] [DEBUG] [MainThread] [FRAME-STATE] frame=4760 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.052s
+[2026-09-29 10:53:39.989] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:41.069] [DEBUG] [MainThread] [FRAME-STATE] frame=4761 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:41.084] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:42.155] [DEBUG] [MainThread] [FRAME-STATE] frame=4762 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:42.186] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:43.255] [DEBUG] [MainThread] [FRAME-STATE] frame=4763 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:43.288] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:44.374] [DEBUG] [MainThread] [FRAME-STATE] frame=4764 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:44.406] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:45.460] [DEBUG] [MainThread] [FRAME-STATE] frame=4765 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:45.492] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:46.563] [DEBUG] [MainThread] [FRAME-STATE] frame=4766 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:53:46.593] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:47.661] [DEBUG] [MainThread] [FRAME-STATE] frame=4767 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:47.693] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:48.770] [DEBUG] [MainThread] [FRAME-STATE] frame=4768 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:53:48.801] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:49.867] [DEBUG] [MainThread] [FRAME-STATE] frame=4769 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:49.899] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:50.957] [DEBUG] [MainThread] [FRAME-STATE] frame=4770 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.051s
+[2026-09-29 10:53:50.988] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:52.056] [DEBUG] [MainThread] [FRAME-STATE] frame=4771 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:52.088] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:53.149] [DEBUG] [MainThread] [FRAME-STATE] frame=4772 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:53.181] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:54.251] [DEBUG] [MainThread] [FRAME-STATE] frame=4773 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:53:54.267] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:55.350] [DEBUG] [MainThread] [FRAME-STATE] frame=4774 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:55.382] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:56.436] [DEBUG] [MainThread] [FRAME-STATE] frame=4775 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:56.468] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:57.536] [DEBUG] [MainThread] [FRAME-STATE] frame=4776 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:53:57.567] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:58.645] [DEBUG] [MainThread] [FRAME-STATE] frame=4777 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.055s
+[2026-09-29 10:53:58.669] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:53:59.739] [DEBUG] [MainThread] [FRAME-STATE] frame=4778 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:53:59.770] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:00.823] [DEBUG] [MainThread] [FRAME-STATE] frame=4779 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.049s
+[2026-09-29 10:54:00.852] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:01.926] [DEBUG] [MainThread] [FRAME-STATE] frame=4780 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.051s
+[2026-09-29 10:54:01.954] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:03.008] [DEBUG] [MainThread] [FRAME-STATE] frame=4781 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:03.040] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:04.110] [DEBUG] [MainThread] [FRAME-STATE] frame=4782 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:04.141] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:05.224] [DEBUG] [MainThread] [FRAME-STATE] frame=4783 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:54:05.239] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:06.307] [DEBUG] [MainThread] [FRAME-STATE] frame=4784 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:06.339] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:07.395] [DEBUG] [MainThread] [FRAME-STATE] frame=4785 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:54:07.426] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:08.476] [DEBUG] [MainThread] [FRAME-STATE] frame=4786 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.031s
+[2026-09-29 10:54:08.507] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:09.577] [DEBUG] [MainThread] [FRAME-STATE] frame=4787 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:09.608] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:10.677] [DEBUG] [MainThread] [FRAME-STATE] frame=4788 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:10.709] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:11.794] [DEBUG] [MainThread] [FRAME-STATE] frame=4789 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:54:11.809] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:12.878] [DEBUG] [MainThread] [FRAME-STATE] frame=4790 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:12.910] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:13.962] [DEBUG] [MainThread] [FRAME-STATE] frame=4791 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:13.994] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:15.051] [DEBUG] [MainThread] [FRAME-STATE] frame=4792 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:54:15.077] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:16.146] [DEBUG] [MainThread] [FRAME-STATE] frame=4793 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:54:16.178] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:17.246] [DEBUG] [MainThread] [FRAME-STATE] frame=4794 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:17.278] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:18.331] [DEBUG] [MainThread] [FRAME-STATE] frame=4795 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:18.362] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:19.413] [DEBUG] [MainThread] [FRAME-STATE] frame=4796 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:19.444] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:20.514] [DEBUG] [MainThread] [FRAME-STATE] frame=4797 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:54:20.545] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:21.615] [DEBUG] [MainThread] [FRAME-STATE] frame=4798 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:21.647] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:22.718] [DEBUG] [MainThread] [FRAME-STATE] frame=4799 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:54:22.739] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:23.806] [DEBUG] [MainThread] [FRAME-STATE] frame=4800 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:23.838] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:24.895] [DEBUG] [MainThread] [FRAME-STATE] frame=4801 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.051s
+[2026-09-29 10:54:24.924] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:25.978] [DEBUG] [MainThread] [FRAME-STATE] frame=4802 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:26.009] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:27.080] [DEBUG] [MainThread] [FRAME-STATE] frame=4803 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:27.112] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:28.180] [DEBUG] [MainThread] [FRAME-STATE] frame=4804 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:28.212] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:29.270] [DEBUG] [MainThread] [FRAME-STATE] frame=4805 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.052s
+[2026-09-29 10:54:29.301] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:30.364] [DEBUG] [MainThread] [FRAME-STATE] frame=4806 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:30.396] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:31.450] [DEBUG] [MainThread] [FRAME-STATE] frame=4807 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:31.481] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:32.534] [DEBUG] [MainThread] [FRAME-STATE] frame=4808 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:32.566] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:33.620] [DEBUG] [MainThread] [FRAME-STATE] frame=4809 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:33.636] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:34.694] [DEBUG] [MainThread] [FRAME-STATE] frame=4810 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.034s
+[2026-09-29 10:54:34.708] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:35.747] [DEBUG] [MainThread] [FRAME-STATE] frame=4811 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.032s
+[2026-09-29 10:54:35.763] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:36.849] [DEBUG] [MainThread] [FRAME-STATE] frame=4812 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:54:36.865] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:37.947] [DEBUG] [MainThread] [FRAME-STATE] frame=4813 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.064s
+[2026-09-29 10:54:37.979] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:39.062] [DEBUG] [MainThread] [FRAME-STATE] frame=4814 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:54:39.078] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:40.147] [DEBUG] [MainThread] [FRAME-STATE] frame=4815 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.046s
+[2026-09-29 10:54:40.177] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:41.255] [DEBUG] [MainThread] [FRAME-STATE] frame=4816 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:41.286] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:42.364] [DEBUG] [MainThread] [FRAME-STATE] frame=4817 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:42.395] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:43.458] [DEBUG] [MainThread] [FRAME-STATE] frame=4818 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:43.489] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:44.536] [DEBUG] [MainThread] [FRAME-STATE] frame=4819 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:44.568] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:45.635] [DEBUG] [MainThread] [FRAME-STATE] frame=4820 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:45.651] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:46.724] [DEBUG] [MainThread] [FRAME-STATE] frame=4821 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.050s
+[2026-09-29 10:54:46.752] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:47.818] [DEBUG] [MainThread] [FRAME-STATE] frame=4822 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:47.849] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:48.896] [DEBUG] [MainThread] [FRAME-STATE] frame=4823 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:54:48.927] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:49.988] [DEBUG] [MainThread] [FRAME-STATE] frame=4824 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.061s
+[2026-09-29 10:54:50.015] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:51.083] [DEBUG] [MainThread] [FRAME-STATE] frame=4825 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.055s
+[2026-09-29 10:54:51.114] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:52.180] [DEBUG] [MainThread] [FRAME-STATE] frame=4826 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.050s
+[2026-09-29 10:54:52.211] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:53.285] [DEBUG] [MainThread] [FRAME-STATE] frame=4827 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.057s
+[2026-09-29 10:54:53.306] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:54.347] [DEBUG] [MainThread] [FRAME-STATE] frame=4828 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.037s
+[2026-09-29 10:54:54.365] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:55.417] [DEBUG] [MainThread] [FRAME-STATE] frame=4829 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.037s
+[2026-09-29 10:54:55.437] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:56.517] [DEBUG] [MainThread] [FRAME-STATE] frame=4830 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.069s
+[2026-09-29 10:54:56.551] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.001146% threshold=0.01% diff_threshold=70
+[2026-09-29 10:54:57.646] [DEBUG] [MainThread] [FRAME-STATE] frame=4831 event=NO_MOTION session=29684 session_frame=80 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.064s
+[2026-09-29 10:54:57.685] [INFO ] [MainThread] [EVENT] NO_MOTION -> SMART_DEVICE (motion resumed) frame=4831
+[2026-09-29 10:54:58.663] [INFO ] [AnalysisWorker-0] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:54:58.663] [INFO ] [AnalysisWorker-0] [SLAT] Total MLF frames: 81
+[2026-09-29 10:54:58.663] [INFO ] [AnalysisWorker-0] [SLAT] Not enough frames yet (total=81, needed=124) -> skipping
+[2026-09-29 10:54:58.876] [DEBUG] [MainThread] [FRAME-STATE] frame=4832 event=SMART_DEVICE session=29684 session_frame=81 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.078s
+[2026-09-29 10:54:59.802] [INFO ] [AnalysisWorker-1] [SLAT] Analysis started path=./pdi/gemlik_factory_end_of_line_0_29684/MLF
+[2026-09-29 10:54:59.802] [INFO ] [AnalysisWorker-1] [SLAT] Total MLF frames: 82
+[2026-09-29 10:54:59.802] [INFO ] [AnalysisWorker-1] [SLAT] Not enough frames yet (total=82, needed=124) -> skipping
+[2026-09-29 10:55:00.095] [DEBUG] [MainThread] [FRAME-STATE] frame=4833 event=SMART_DEVICE session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.074s
+[2026-09-29 10:55:00.127] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000262% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:00.129] [INFO ] [MainThread] [EVENT] SMART_DEVICE -> NO_MOTION (no motion detected) frame=4833 session_frames=82
+[2026-09-29 10:55:01.215] [DEBUG] [MainThread] [FRAME-STATE] frame=4834 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:01.246] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:02.302] [DEBUG] [MainThread] [FRAME-STATE] frame=4835 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.049s
+[2026-09-29 10:55:02.333] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:03.402] [DEBUG] [MainThread] [FRAME-STATE] frame=4836 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:03.427] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:04.493] [DEBUG] [MainThread] [FRAME-STATE] frame=4837 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.056s
+[2026-09-29 10:55:04.520] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:05.575] [DEBUG] [MainThread] [FRAME-STATE] frame=4838 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.035s
+[2026-09-29 10:55:05.591] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:06.642] [DEBUG] [MainThread] [FRAME-STATE] frame=4839 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.035s
+[2026-09-29 10:55:06.657] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:07.721] [DEBUG] [MainThread] [FRAME-STATE] frame=4840 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:07.750] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:08.842] [DEBUG] [MainThread] [FRAME-STATE] frame=4841 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.070s
+[2026-09-29 10:55:08.869] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:09.932] [DEBUG] [MainThread] [FRAME-STATE] frame=4842 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.049s
+[2026-09-29 10:55:09.969] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:11.032] [DEBUG] [MainThread] [FRAME-STATE] frame=4843 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:55:11.057] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:12.144] [DEBUG] [MainThread] [FRAME-STATE] frame=4844 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.060s
+[2026-09-29 10:55:12.171] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:13.249] [DEBUG] [MainThread] [FRAME-STATE] frame=4845 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.057s
+[2026-09-29 10:55:13.275] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:14.349] [DEBUG] [MainThread] [FRAME-STATE] frame=4846 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.058s
+[2026-09-29 10:55:14.382] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:15.459] [DEBUG] [MainThread] [FRAME-STATE] frame=4847 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:15.488] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:16.549] [DEBUG] [MainThread] [FRAME-STATE] frame=4848 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.056s
+[2026-09-29 10:55:16.577] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000025% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:17.656] [DEBUG] [MainThread] [FRAME-STATE] frame=4849 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.056s
+[2026-09-29 10:55:17.682] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000049% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:18.751] [DEBUG] [MainThread] [FRAME-STATE] frame=4850 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.056s
+[2026-09-29 10:55:18.777] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:19.839] [DEBUG] [MainThread] [FRAME-STATE] frame=4851 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:19.869] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:20.932] [DEBUG] [MainThread] [FRAME-STATE] frame=4852 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:20.963] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:22.053] [DEBUG] [MainThread] [FRAME-STATE] frame=4853 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:22.084] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:23.163] [DEBUG] [MainThread] [FRAME-STATE] frame=4854 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:23.193] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:24.272] [DEBUG] [MainThread] [FRAME-STATE] frame=4855 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.055s
+[2026-09-29 10:55:24.287] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:25.351] [DEBUG] [MainThread] [FRAME-STATE] frame=4856 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.043s
+[2026-09-29 10:55:25.382] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:26.462] [DEBUG] [MainThread] [FRAME-STATE] frame=4857 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:26.490] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:27.568] [DEBUG] [MainThread] [FRAME-STATE] frame=4858 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:27.600] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:28.657] [DEBUG] [MainThread] [FRAME-STATE] frame=4859 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:28.689] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:29.753] [DEBUG] [MainThread] [FRAME-STATE] frame=4860 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.036s
+[2026-09-29 10:55:29.780] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:30.843] [DEBUG] [MainThread] [FRAME-STATE] frame=4861 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:30.874] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:31.959] [DEBUG] [MainThread] [FRAME-STATE] frame=4862 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:31.990] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:33.095] [DEBUG] [MainThread] [FRAME-STATE] frame=4863 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.074s
+[2026-09-29 10:55:33.131] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:34.225] [DEBUG] [MainThread] [FRAME-STATE] frame=4864 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:55:34.259] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:35.334] [DEBUG] [MainThread] [FRAME-STATE] frame=4865 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:35.366] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.002161% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:36.445] [DEBUG] [MainThread] [FRAME-STATE] frame=4866 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:36.460] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000057% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:37.541] [DEBUG] [MainThread] [FRAME-STATE] frame=4867 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:37.575] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:38.662] [DEBUG] [MainThread] [FRAME-STATE] frame=4868 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:38.687] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000115% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:39.819] [DEBUG] [MainThread] [FRAME-STATE] frame=4869 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.094s
+[2026-09-29 10:55:39.850] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000115% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:40.929] [DEBUG] [MainThread] [FRAME-STATE] frame=4870 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.059s
+[2026-09-29 10:55:40.959] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000090% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:42.058] [DEBUG] [MainThread] [FRAME-STATE] frame=4871 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.064s
+[2026-09-29 10:55:42.089] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:43.178] [DEBUG] [MainThread] [FRAME-STATE] frame=4872 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:43.209] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000049% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:44.303] [DEBUG] [MainThread] [FRAME-STATE] frame=4873 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.062s
+[2026-09-29 10:55:44.336] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:45.428] [DEBUG] [MainThread] [FRAME-STATE] frame=4874 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:45.459] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.003184% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:46.528] [DEBUG] [MainThread] [FRAME-STATE] frame=4875 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:46.560] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000025% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:47.646] [DEBUG] [MainThread] [FRAME-STATE] frame=4876 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:47.678] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:48.758] [DEBUG] [MainThread] [FRAME-STATE] frame=4877 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.063s
+[2026-09-29 10:55:48.790] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000074% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:49.865] [DEBUG] [MainThread] [FRAME-STATE] frame=4878 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:55:49.906] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000123% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:50.979] [DEBUG] [MainThread] [FRAME-STATE] frame=4879 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.051s
+[2026-09-29 10:55:51.006] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000041% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:52.084] [DEBUG] [MainThread] [FRAME-STATE] frame=4880 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:52.115] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000188% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:53.209] [DEBUG] [MainThread] [FRAME-STATE] frame=4881 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.068s
+[2026-09-29 10:55:53.240] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000131% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:54.308] [DEBUG] [MainThread] [FRAME-STATE] frame=4882 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.050s
+[2026-09-29 10:55:54.337] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000156% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:55.405] [DEBUG] [MainThread] [FRAME-STATE] frame=4883 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:55.437] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000262% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:56.491] [DEBUG] [MainThread] [FRAME-STATE] frame=4884 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.048s
+[2026-09-29 10:55:56.522] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000262% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:57.584] [DEBUG] [MainThread] [FRAME-STATE] frame=4885 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:57.615] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000025% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:58.678] [DEBUG] [MainThread] [FRAME-STATE] frame=4886 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:58.709] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:55:59.772] [DEBUG] [MainThread] [FRAME-STATE] frame=4887 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:55:59.803] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000205% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:00.865] [DEBUG] [MainThread] [FRAME-STATE] frame=4888 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:00.897] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000213% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:01.949] [DEBUG] [MainThread] [FRAME-STATE] frame=4889 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:01.965] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000041% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:03.037] [DEBUG] [MainThread] [FRAME-STATE] frame=4890 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:03.068] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000008% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:04.131] [DEBUG] [MainThread] [FRAME-STATE] frame=4891 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:04.170] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:05.233] [DEBUG] [MainThread] [FRAME-STATE] frame=4892 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:05.249] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000164% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:06.334] [DEBUG] [MainThread] [FRAME-STATE] frame=4893 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:06.365] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:07.431] [DEBUG] [MainThread] [FRAME-STATE] frame=4894 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:07.463] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:08.522] [DEBUG] [MainThread] [FRAME-STATE] frame=4895 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.053s
+[2026-09-29 10:56:08.547] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
+[2026-09-29 10:56:09.616] [DEBUG] [MainThread] [FRAME-STATE] frame=4896 event=NO_MOTION session=29684 session_frame=82 has_car=True num_cars=1 has_entering=True has_exiting=False is_dark=False consecutive_no_car_frames=0 det_time=0.047s
+[2026-09-29 10:56:09.647] [INFO ] [MainThread] [MOTION] NO MOTION detected! motion_percent=0.000000% threshold=0.01% diff_threshold=70
